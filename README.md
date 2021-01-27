@@ -9,3 +9,8 @@
 - sudo -u postgres createuser --interactive
 - sudo -u postgres createdb blog
 - sudo apt-get install pgadmin4
+
+
+## Django issues
+- sudo apt install libpq-dev python3-dev
+- pip install psycopg2
