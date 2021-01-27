@@ -6,3 +6,6 @@
 - sudo apt-get install postgresql
 - sudo -i -u postgres
 - psql
+- sudo -u postgres createuser --interactive
+- sudo -u postgres createdb blog
+- sudo apt-get install pgadmin3
