@@ -8,4 +8,4 @@
 - psql
 - sudo -u postgres createuser --interactive
 - sudo -u postgres createdb blog
-- sudo apt-get install pgadmin3
+- sudo apt-get install pgadmin4
